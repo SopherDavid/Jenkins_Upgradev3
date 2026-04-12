@@ -43,7 +43,7 @@ public class TestGreeter {
   }
     @Test
   public void IntetntioanallyFail() {
-    assertThat(false);
+    assertTrue(false);
   }
 }
 

@@ -1,6 +1,6 @@
 # Jenkins Upgradev3
 
-![Jenkins Logo](https://jenkins.io/images/logos/jenkins-logo.png)
+![Jenkins Logo]([https://jenkins.io/images/logos/jenkins-logo.png](https://1000logos.net/wp-content/uploads/2024/09/Jenkins-Logo.png)
 
 ## COURES Overview
 
